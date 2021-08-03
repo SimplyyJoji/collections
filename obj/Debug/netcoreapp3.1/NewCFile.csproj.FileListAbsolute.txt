@@ -1,0 +1,12 @@
+/Users/javanogden/Desktop/NewCFile/bin/Debug/netcoreapp3.1/NewCFile.deps.json
+/Users/javanogden/Desktop/NewCFile/bin/Debug/netcoreapp3.1/NewCFile.runtimeconfig.json
+/Users/javanogden/Desktop/NewCFile/bin/Debug/netcoreapp3.1/NewCFile.runtimeconfig.dev.json
+/Users/javanogden/Desktop/NewCFile/bin/Debug/netcoreapp3.1/NewCFile.dll
+/Users/javanogden/Desktop/NewCFile/bin/Debug/netcoreapp3.1/NewCFile.pdb
+/Users/javanogden/Desktop/NewCFile/obj/Debug/netcoreapp3.1/NewCFile.csprojAssemblyReference.cache
+/Users/javanogden/Desktop/NewCFile/obj/Debug/netcoreapp3.1/NewCFile.AssemblyInfoInputs.cache
+/Users/javanogden/Desktop/NewCFile/obj/Debug/netcoreapp3.1/NewCFile.AssemblyInfo.cs
+/Users/javanogden/Desktop/NewCFile/obj/Debug/netcoreapp3.1/NewCFile.csproj.CoreCompileInputs.cache
+/Users/javanogden/Desktop/NewCFile/obj/Debug/netcoreapp3.1/NewCFile.dll
+/Users/javanogden/Desktop/NewCFile/obj/Debug/netcoreapp3.1/NewCFile.pdb
+/Users/javanogden/Desktop/NewCFile/obj/Debug/netcoreapp3.1/NewCFile.genruntimeconfig.cache
